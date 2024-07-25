@@ -1,8 +1,7 @@
 ![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCf0eXZ8ieW20or45rwqnhKafHLa9bkTT0Cfh5CDI0-f57u9V04VUcOTLxCCvzMBRjeXOvoNw-qoPdPQI6SNZ0rCA4YimLQqsMWrfT2gzcg8k91_K8NLxXTr2MzCJT47eD6Jniy7K8RvHAb_ThfLFVPl0dqwcLTzak2EOYX4WZ89Ymwzc12aY6msogOhpn/s1239/Screenshot%202024-07-25%20213909.png)
 
 <div align="center">
-[https://indonbs-football-sty.streamlit.app/](https://indonbs-football-sty.streamlit.app/)
-</div>
+https://indonbs-football-sty.streamlit.app
 
 <br>
 This Streamlit app analyzes public sentiment on comments about the Indonesian national football team during Shin Tae-yong’s tenure, using a Naive Bayes algorithm. It aims to evaluate how people feel about the team's performance and give insights into their perception of the coach.
