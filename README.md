@@ -2,6 +2,7 @@
 
 <div align="center">
 https://indonbs-football-sty.streamlit.app
+</div>
 
 <br>
 This Streamlit app analyzes public sentiment on comments about the Indonesian national football team during Shin Tae-yong’s tenure, using a Naive Bayes algorithm. It aims to evaluate how people feel about the team's performance and give insights into their perception of the coach.
